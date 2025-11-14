@@ -1,0 +1,8 @@
+# Ignore the folder Satellite_images
+Satellite_images/
+
+# Ignore specific .pkl files
+Bordeaux_data.pkl
+Lyon_data.pkl
+Paris_data.pkl
+Toulouse_data.pkl
